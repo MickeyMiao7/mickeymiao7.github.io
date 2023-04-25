@@ -1,6 +1,6 @@
 ---
-title:      "「动效」Welcome to Mickey Blog"
-subtitle:   "Hello World, Hello Blog"
+title:      "「动效」AE 动效制作初体验"
+subtitle:   "ANIPLEX Logo 动效制作"
 date:       2023-04-25
 author:     "Mickey"
 URL: "/2022/01/25/ae-intro/"
