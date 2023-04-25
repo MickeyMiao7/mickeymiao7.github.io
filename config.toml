@@ -1,8 +1,7 @@
 baseURL = "https://mickeymiao7.github.io"
 languageCode = "en-us"
-title = "Mickey's Blog"
-theme = "cleanwhite"
-image = ""
+title = "Mickey Blog"
+theme = "ananke"
 
 [params]
   header_image = "images/cover.jpg"
