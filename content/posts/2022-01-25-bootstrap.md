@@ -27,6 +27,13 @@ URL: "/2022/01/25/hello-world/"
 git submodule init
 git submodule update
 ```
+
+开发
+
+```
+hugo server -D
+```
+
 # 最后的最后
 
 第一篇博客就这样简单结束啦，目前这个博客大概会放一些自己的学习、生活记录、以及技术博客，希望能坚持吧，嗯，就这样~
