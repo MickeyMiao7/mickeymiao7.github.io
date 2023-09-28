@@ -16,4 +16,4 @@ Motion 4 Motion Tools 2 Overload 1.24 文字制作 首先，需要制作一个 A
 比较容易踩坑的是，Hugo 使用其他开发者开发的主题作为模版，进行站点渲染（通过 git submodule 的形式引入仓库），由于 hugo 本身不断更新、偶尔有 break change、你之前用的主题很可能无法正常渲染。这个时候，要么去 hugo 官方和对应主题的 github 提 issue，要么就只能自己去看一下到底是因为什么报错导致的无法正常工作。当然，最快的解决方式就是换一个能正常工作的主题 QvQ
 更新 git submodule 的方式：
 git submodule init git submodule update 开发
-hugo server -D 最后的最后 第一篇博客就这样简单结束啦，目前这个博客大概会放一些自己的学习、生活记录、以及技术博客，希望能坚持吧，嗯，就这样~</description></item></channel></rss>
+hugo server -D 最后的最后 第一篇博客就这样简单结束啦，目前这个博客大概会放一些自己的学习、生活记录、以及技术博客，希望能坚持吧，嗯，就这样~</description></item><item><title/><link>https://mickeymiao7.github.io/posts/hi-mickey/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mickeymiao7.github.io/posts/hi-mickey/</guid><description>1231 f</description></item></channel></rss>
