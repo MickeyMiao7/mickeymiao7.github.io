@@ -1,0 +1,23 @@
+{
+  "name": "mickeymiao7.github.io",
+  "version": "1.0.0",
+  "description": "Mickey's Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MickeyMiao7/mickeymiao7.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MickeyMiao7/mickeymiao7.github.io/issues"
+  },
+  "homepage": "https://github.com/MickeyMiao7/mickeymiao7.github.io#readme",
+  "devDependencies": {
+    "@notionhq/client": "^2.2.13",
+    "notion-to-md": "^3.1.1"
+  }
+}
